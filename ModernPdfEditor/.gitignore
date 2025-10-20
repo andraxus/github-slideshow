@@ -1,0 +1,5 @@
+#-*- mode: git-ignore -*-
+
+## Build Folders (you can keep bin if you'd like to commit binaries)
+[Bb]in/
+[Oo]bj/
